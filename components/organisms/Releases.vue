@@ -1,7 +1,7 @@
 <template>
   <div class="releases">
     <h2>Melhores Filmes</h2>
-    <BookList />
+    <FilmList />
   </div>
 </template>
 

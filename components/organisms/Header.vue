@@ -3,9 +3,7 @@
     <nav>
       <ul class="items">
         <li class="item">
-          <NuxtLink to="#">
-            <Logo />
-          </NuxtLink>
+          <NuxtLink to="#"><strong>iSandler</strong></NuxtLink>
         </li>
         <li class="item">
           <NuxtLink to="/">Home</NuxtLink>

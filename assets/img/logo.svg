@@ -1,37 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="59.077" height="16.188" viewBox="0 0 59.077 16.188">
-  <g id="iBook_Logo" data-name="iBook Logo" transform="translate(-898.929 -569.558)">
-    <g id="Grupo_1" data-name="Grupo 1" transform="translate(898.929 569.558)">
-      <path id="Caminho_1" data-name="Caminho 1" d="M898.929,571.329a1.815,1.815,0,0,1,1.975-1.771,1.783,1.783,0,0,1,1.975,1.71,1.983,1.983,0,0,1-3.949.062Zm.387,3.3h3.176V585.58h-3.176Z" transform="translate(-898.929 -569.558)" fill="#f0f0f0"/>
-    </g>
-    <g id="Grupo_2" data-name="Grupo 2" transform="translate(905.667 571.329)">
-      <path id="Caminho_2" data-name="Caminho 2" d="M928.549,584.271c0,2.464-1.954,3.889-5.7,3.889h-7.37V573.909h6.962c3.563,0,5.395,1.486,5.395,3.7a3.425,3.425,0,0,1-1.894,3.135A3.519,3.519,0,0,1,928.549,584.271Zm-9.792-7.878v3.359h3.277c1.608,0,2.484-.57,2.484-1.69s-.875-1.669-2.484-1.669Zm6.473,7.532c0-1.2-.916-1.771-2.626-1.771h-3.847v3.522H922.6C924.314,585.676,925.23,585.146,925.23,583.925Z" transform="translate(-915.479 -573.909)" fill="#f0f0f0"/>
-    </g>
-    <g id="Grupo_3" data-name="Grupo 3" transform="translate(920.203 574.456)">
-      <path id="Caminho_3" data-name="Caminho 3" d="M954.4,587.235a2.779,2.779,0,0,0,2.809,3.033h2.532V592.8l-2.532.081v0c-3.481,0-6.026-2.341-6.026-5.639s2.545-5.639,6.026-5.639v-.008l2.532.086V584.2h-2.532A2.779,2.779,0,0,0,954.4,587.235Z" transform="translate(-951.181 -581.588)" fill="#f0f0f0"/>
-    </g>
-    <g id="Grupo_4" data-name="Grupo 4" transform="translate(945.995 570.474)">
-      <path id="Caminho_4" data-name="Caminho 4" d="M1019.236,582.618l-1.527,1.506v2.789h-3.176V571.808h3.176v8.551l4.642-4.4h3.786l-4.56,4.642,4.967,6.311H1022.7Z" transform="translate(-1014.533 -571.808)" fill="#f0f0f0"/>
-    </g>
-    <g id="Grupo_5" data-name="Grupo 5" transform="translate(935.353 574.46)">
-      <path id="Caminho_5" data-name="Caminho 5" d="M996.919,587.241c0,3.294-2.52,5.635-5.993,5.639v0l-2.532-.081v-2.528h2.532a3.046,3.046,0,0,0,.029-6.066h-2.532v-2.528l2.532-.081v0C994.415,581.622,996.919,583.955,996.919,587.241Z" transform="translate(-988.394 -581.598)" fill="#f0f0f0"/>
-    </g>
-    <g id="Grupo_6" data-name="Grupo 6" transform="translate(925.012 577.656)">
-      <path id="Caminho_6" data-name="Caminho 6" d="M967.405,590.669h-3.8a.611.611,0,1,1,0-1.221h3.8a.611.611,0,1,1,0,1.221Z" transform="translate(-962.994 -589.448)" fill="#f0f0f0"/>
-    </g>
-    <g id="Grupo_7" data-name="Grupo 7" transform="translate(924.283 579.399)">
-      <path id="Caminho_7" data-name="Caminho 7" d="M967.007,594.951h-5.194a.611.611,0,0,1,0-1.221h5.194a.611.611,0,1,1,0,1.221Z" transform="translate(-961.202 -593.73)" fill="#f0f0f0"/>
-    </g>
-    <g id="Grupo_8" data-name="Grupo 8" transform="translate(925.012 581.143)">
-      <path id="Caminho_8" data-name="Caminho 8" d="M967.405,599.234h-3.8a.611.611,0,1,1,0-1.221h3.8a.611.611,0,1,1,0,1.221Z" transform="translate(-962.994 -598.013)" fill="#f0f0f0"/>
-    </g>
-    <g id="Grupo_9" data-name="Grupo 9" transform="translate(933.672 581.143)">
-      <path id="Caminho_9" data-name="Caminho 9" d="M988.676,599.234h-3.8a.611.611,0,1,1,0-1.221h3.8a.611.611,0,1,1,0,1.221Z" transform="translate(-984.265 -598.013)" fill="#f0f0f0"/>
-    </g>
-    <g id="Grupo_10" data-name="Grupo 10" transform="translate(933.009 579.399)">
-      <path id="Caminho_10" data-name="Caminho 10" d="M988.44,594.951h-5.194a.611.611,0,1,1,0-1.221h5.194a.611.611,0,1,1,0,1.221Z" transform="translate(-982.635 -593.73)" fill="#f0f0f0"/>
-    </g>
-    <g id="Grupo_11" data-name="Grupo 11" transform="translate(933.672 577.656)">
-      <path id="Caminho_11" data-name="Caminho 11" d="M988.676,590.669h-3.8a.611.611,0,1,1,0-1.221h3.8a.611.611,0,1,1,0,1.221Z" transform="translate(-984.265 -589.448)" fill="#f0f0f0"/>
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 59.1 16.2" style="enable-background:new 0 0 59.1 16.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F0F0F0;}
+</style>
+<g>
+	<path class="st0" d="M0,3.9c0-0.8,0.6-1.4,1.6-1.4s1.6,0.6,1.6,1.3c0,0.8-0.6,1.4-1.6,1.4S0,4.7,0,3.9z M0.3,6.1h2.6v7.4H0.3V6.1z"
+		/>
+	<path class="st0" d="M3.9,12.6l0.9-2c0.8,0.6,2,0.9,3.2,0.9c1.1,0,1.6-0.3,1.6-0.8c0-1.5-5.4-0.4-5.4-4c0-1.7,1.4-3.1,4.2-3.1
+		c1.2,0,2.5,0.3,3.5,0.8l-0.8,2c-0.9-0.5-1.8-0.7-2.6-0.7c-1.1,0-1.5,0.4-1.5,0.9c0,1.5,5.4,0.4,5.4,3.9c0,1.7-1.4,3.1-4.2,3.1
+		C6.4,13.7,4.8,13.3,3.9,12.6z"/>
+	<path class="st0" d="M20.3,9.4v4.1h-2.4v-1c-0.4,0.7-1.1,1.1-2.2,1.1c-1.8,0-2.8-1-2.8-2.3c0-1.4,1-2.2,3.3-2.2h1.5
+		c0-0.8-0.5-1.2-1.6-1.2c-0.7,0-1.5,0.2-2,0.6l-0.9-1.8C14.1,6.3,15.3,6,16.5,6C18.9,6,20.3,7,20.3,9.4z M17.7,11.1v-0.6h-1.1
+		c-0.8,0-1.1,0.3-1.1,0.8c0,0.4,0.4,0.8,1,0.8C17,12,17.5,11.7,17.7,11.1z"/>
+	<path class="st0" d="M29.8,9.3v4.2h-2.6V9.7c0-1.1-0.5-1.5-1.2-1.5c-0.8,0-1.5,0.5-1.5,1.7v3.6h-2.6V6.1h2.5v0.8
+		C25,6.3,25.8,6,26.7,6C28.5,6,29.8,7,29.8,9.3z"/>
+	<path class="st0" d="M39.4,3.4v10.1h-2.5v-0.7c-0.5,0.6-1.2,0.9-2.2,0.9c-2,0-3.6-1.5-3.6-3.8c0-2.3,1.6-3.8,3.6-3.8
+		c0.9,0,1.6,0.2,2,0.8V3.4H39.4z M36.8,9.8c0-1.1-0.7-1.7-1.5-1.7c-0.9,0-1.6,0.6-1.6,1.7c0,1.1,0.7,1.8,1.6,1.8
+		C36.2,11.5,36.8,10.9,36.8,9.8z"/>
+	<path class="st0" d="M41.1,3.4h2.6v10.1h-2.6V3.4z"/>
+	<path class="st0" d="M52.9,10.4h-5.4c0.2,0.8,0.9,1.2,1.8,1.2c0.7,0,1.2-0.2,1.7-0.6l1.4,1.4c-0.7,0.8-1.7,1.2-3.2,1.2
+		c-2.6,0-4.3-1.6-4.3-3.8C44.9,7.5,46.6,6,49,6c2.2,0,4,1.4,4,3.8C52.9,10,52.9,10.2,52.9,10.4z M47.5,9.1h3
+		c-0.1-0.8-0.7-1.3-1.5-1.3C48.2,7.8,47.6,8.3,47.5,9.1z"/>
+	<path class="st0" d="M59.1,6v2.3c-0.2,0-0.4,0-0.6,0c-1.1,0-1.8,0.5-1.8,1.8v3.4h-2.6V6.1h2.5V7C57.1,6.3,58,6,59.1,6z"/>
+</g>
 </svg>
