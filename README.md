@@ -1,5 +1,7 @@
 # iSandler
 
+[Teste versão estática aqui](https://isandler.netlify.app/) (Algumas capas estão quebradas, pois é da API externa)
+
 Apenas um projeto para estudar Nuxt.js com uma API externa de filmes
 
 ## Build Setup
